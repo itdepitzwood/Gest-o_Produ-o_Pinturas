@@ -4,6 +4,7 @@ Gestão Produção Secção Pinturas - Check-In e Check-Out Kanban
 Aplicalção que permite criar check in e check out nas duas areas de Pintura (Pintura Primário ID= 21 + Pintura Acabamento ID= 23).
 
 A aplicação contem varios tipos de validação a começar que não permite ao clicasr no botão (CHECK-IN/CHECK-OUT) sem o Inout estar preenchido, ou seja não aceita vazio.
+
           CHECK-IN
 O Check-In contem as seguintes validações:
  - valida se ja foi efetuado algum Check-in, se sim mostra a seguinte mensagem: "ERRO, este Kanban ja foi efetuado o Check-In" e não regista nada.
