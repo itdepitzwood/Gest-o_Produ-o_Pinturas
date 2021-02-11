@@ -1,0 +1,16 @@
+/* Programa Desenvolvido Pelo Programador (Marco Silva) Propriedade Pertencete à ITZWOOD  */
+
+.kanban_icon {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+  }
+
+  figure {
+    display: inline-block;
+    vertical-align: top;
+    margin:0;
+    padding:35px;
+}
+.imGSec{white-space:nowrap;}
