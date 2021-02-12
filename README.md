@@ -25,6 +25,10 @@ Em caso de sucesso mostra a seguinte menssagem:
   
   A aplicação no caso de sucesso CHECK-IN escreve na tabela a seguinte informação: Data&Hora de Registo Check-Out
   
-  a Base de Dados Chama-se GP_test que contem os seguintes campos (id + id_kanban + section + date_check_in + date_check_out) com chaves estrangeiras consosante o ambiente já existente. 
+  a Base de Dados Chama-se GP_test que contem os seguintes campos (id + id_kanban + section + date_check_in + date_check_out) com chaves estrangeiras consosante o ambiente já existente.
+  
+  Ficheiro de Conexão com a base de dados está localizado no seguinte caminho do projeto: conection/config_file.ini
+  
+  Inputs com Autofocus.
   
   A Aplicação foi construida com as seguintes tecnologias: Bootstrap 4 + JavaScript + PHP 8 + Mysql.
